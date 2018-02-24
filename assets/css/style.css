@@ -1,7 +1,7 @@
 
 /* background image */
 body{
-  background: url(".Portfolio/assets/images/background.jpg");
+  background: url("portfolio/assets/images/background.png");
   background-repeat: no-repeat;
   background-size:cover;
   background-attachment: fixed;
